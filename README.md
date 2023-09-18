@@ -4,7 +4,10 @@ This Python script `img2ana.py` allows you to create an anaglyph image from left
 
 ## Installation
 
-### 1. Download the Repository from the Google Drive, and place it in folder that makes sense for your computer
+### 1. Download the Repository from the Google Drive, and place it in folder that makes sense for your computer. OR clone the repository from github with the following command:
+```bash
+git clone https://github.com/your-username/img2ana.git
+```
 ### 2. Open the terminal and change directories into img2ana
 
 ```bash

@@ -1,0 +1,10 @@
+name: img2ana
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8  # You can adjust the Python version if needed
+  - numpy
+  - gdal
+  - pillow
+  - scipy
